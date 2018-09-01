@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.each-cont {
+  border: 1px solid;
+  padding: 5px;
+  height: 330px;
+}
+
+.image {
+  width: 200px;
+  height: 150px;
+  margin-bottom: 5px;
+}
+
+.title:hover {
+  color: silver;
+  cursor: pointer;
+}
+
+.desc {
+  font-size: 12px;
+}
